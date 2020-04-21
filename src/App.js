@@ -18,7 +18,7 @@ function App() {
         <br />
         <br />
         <br />
-        <p>Yet another <a href="https://www.mountaintopcoding.com">mountainTopCoding(&#9968;);</a> project </p>
+        <p>Yet another <a href="https://www.mountaintopcoding.com" target="blank">mountainTopCoding(&#9968;);</a> project </p>
     </div>
   );
 }
